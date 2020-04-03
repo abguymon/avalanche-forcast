@@ -32,13 +32,13 @@ def main(args):
             
             for row in reader:
                 if row[0] == 'Date':
-                    writer.writerow(row[:-1] + ['longitude', 'latitude', 'altitude'] + row[-1])
+                    writer.writerow(row[:-1] + ['longitude', 'latitude', 'altitude'] + row[-1:])
                 elif len(row) > 2 and len(row[1]) > 0 and row[1] not in pinged:
                     pinged.add(row[1])
                     point = None
                     point = _ping(geolocator, row[1])
                     if point != None:
-                        writer.writerow(row[:-1] + [point.longitude, point.latitude, point.altitude] + row[-1])
+                        writer.writerow(row[:-1] + [point.longitude, point.latitude, point.altitude] + row[-1:])
                         print('.', end='')
                     else:
                         print('N', end='')
