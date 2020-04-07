@@ -1,0 +1,1278 @@
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.004638218923933235
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.014842300556586308
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.01391465677179965
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.0
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.009276437847866414
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.017625231910946226
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.038961038961038974
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.05565862708719849
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.004638218923933235
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.007421150278293154
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.011131725417439675
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.010204081632653073
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.04452690166975881
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.0575139146567718
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.03153988868274582
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.03432282003710574
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.01113172541743973
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.017625231910946226
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.012059369202226333
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.01113172541743973
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.0575139146567718
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.043599257884972153
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.04823747680890533
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.03988868274582558
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.016697588126159568
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.016697588126159513
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.016697588126159513
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.03153988868274582
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.03803339517625237
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.0
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.029684601113172504
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.01576994434137291
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.00649350649350644
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.009276437847866414
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.012987012987012991
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.017625231910946226
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.05380333951762528
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.038033395176252316
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.004638218923933235
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.006493506493506496
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.01576994434137291
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.017625231910946226
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.010204081632653073
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.04174397031539889
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.04638218923933207
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.03153988868274582
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.03432282003710574
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.01113172541743973
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.012059369202226389
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.012987012987012991
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.002782931354359919
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.05565862708719849
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.05565862708719849
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.03246753246753248
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.03710575139146566
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.005565862708719838
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.01576994434137291
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.016697588126159513
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.05565862708719854
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.054730983302411884
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.04081632653061229
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.04174397031539889
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.01576994434137291
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.009276437847866414
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.004638218923933235
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.008348794063079756
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.014842300556586308
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.014842300556586308
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.06215213358070504
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.06771799628942488
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.027829313543599243
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.0287569573283859
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.012059369202226333
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.017625231910946226
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.010204081632653073
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.05102040816326531
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.05009276437847865
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.026901669758812585
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.024118738404452666
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.021335807050092748
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.01576994434137291
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.00927643784786647
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.005565862708719838
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.06586270871985156
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.05009276437847865
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.02690166975881264
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.0287569573283859
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.016697588126159513
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.014842300556586308
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.011131725417439675
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.04916512059369205
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.061224489795918324
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.025974025974025983
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.03153988868274582
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.01576994434137291
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.011131725417439675
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.009276437847866414
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.01576994434137291
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.011131725417439675
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.03246753246753248
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.036178107606679055
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.020408163265306145
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.030612244897959218
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.01576994434137291
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.010204081632653073
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.010204081632653073
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.04916512059369205
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.04267161410018555
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.02504638218923938
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.0287569573283859
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.0018552875695733162
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.002782931354359919
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.01576994434137291
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.010204081632653073
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.051948051948051965
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.03153988868274582
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.036178107606679055
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.03432282003710574
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.016697588126159513
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.010204081632653073
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.011131725417439675
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.051948051948051965
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.054730983302411884
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.0018552875695733162
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.020408163265306145
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.01391465677179965
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.007421150278293154
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.01113172541743973
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.01855287569573283
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.008348794063079756
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.0
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.01113172541743973
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.0575139146567718
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.043599257884972153
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.04823747680890533
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.03988868274582558
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.016697588126159568
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.016697588126159513
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.016697588126159513
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.03153988868274582
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.03803339517625237
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.0
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.029684601113172504
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.01576994434137291
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.00649350649350644
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.009276437847866414
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.016697588126159568
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.030612244897959162
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.05565862708719849
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.04823747680890533
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.030612244897959162
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.010204081632653073
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.01855287569573283
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.010204081632653073
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.0575139146567718
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.03153988868274582
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.0278293135435993
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.030612244897959218
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.008348794063079756
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.007421150278293154
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.019480519480519487
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.01391465677179965
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.002782931354359919
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.05565862708719849
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.05565862708719849
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.03246753246753248
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.03710575139146566
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.005565862708719838
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.01576994434137291
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.016697588126159513
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.05565862708719854
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.054730983302411884
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.04081632653061229
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.04174397031539889
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.01576994434137291
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.009276437847866414
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.004638218923933235
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.007421150278293154
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.030612244897959162
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.06215213358070504
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.03710575139146566
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.04730983302411873
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.011131725417439675
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.010204081632653073
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.010204081632653073
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.051948051948051965
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.03153988868274582
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.011131725417439675
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.0018552875695732607
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.0
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.00927643784786647
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.019480519480519487
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.003710575139146577
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.008348794063079756
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.005565862708719838
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.06586270871985156
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.05009276437847865
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.02690166975881264
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.0287569573283859
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.016697588126159513
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.014842300556586308
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.011131725417439675
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.04916512059369205
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.061224489795918324
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.025974025974025983
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.03153988868274582
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.01576994434137291
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.011131725417439675
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.009276437847866414
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.0009276437847866026
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.0565862708719852
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.06586270871985156
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.023191094619666064
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.05009276437847865
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.013914656771799594
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.012987012987012991
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.01948051948051943
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.03246753246753248
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.054730983302411884
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.012987012987012991
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.021335807050092748
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.017625231910946226
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.012987012987012991
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.012987012987012991
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.014842300556586308
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.010204081632653073
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.051948051948051965
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.03153988868274582
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.036178107606679055
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.03432282003710574
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.016697588126159513
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.010204081632653073
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.011131725417439675
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.051948051948051965
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.054730983302411884
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.0018552875695733162
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.020408163265306145
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.01391465677179965
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.007421150278293154
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.01113172541743973
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.0009276437847866026
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.05287569573283857
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.05380333951762528
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.03153988868274582
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.03246753246753248
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.00649350649350644
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.012987012987012991
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.012987012987012991
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.04823747680890533
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.03710575139146566
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.01113172541743973
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.03153988868274582
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.010204081632653073
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.011131725417439675
+
+AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+            connectivity=None, linkage='ward', memory=None, n_clusters=2,
+            pooling_func='deprecated')
+accuracy 0.012987012987012991
+
+
+
+Best score:0.06771799628942488 With headers ['mintempC', 'humidity']
