@@ -1,0 +1,15 @@
+# Railway deployment configuration
+# This file tells Railway how to deploy your app
+
+[build]
+builder = "dockerfile"
+
+[deploy]
+startCommand = "gunicorn --bind 0.0.0.0:$PORT --workers 4 wsgi:app"
+healthcheckPath = "/api/data"
+healthcheckTimeout = 300
+restartPolicyType = "always"
+
+[env]
+FLASK_ENV = "production"
+PORT = "5000"

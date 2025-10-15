@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project specific
+config.env
+*.log
+*.tmp
+temp/
+tmp/
+
+# Data files (keep main dataset, ignore temporary ones)
+scraper/avalanches_*.csv
+scraper/allData_updated_*.csv
+scraper/avalanches_with_weather_*.csv
+scraper/avalanches_with_coords.csv
+scraper/avalanches_scraped_*.csv
+scraper/avalanches_enhanced_*.csv
+
+# Keep main dataset
+!allData.csv
+!all_weather_data.csv
+!full_avalanche_weather_w_lag.csv

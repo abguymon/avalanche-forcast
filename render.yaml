@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: avalanche-forecast
+    env: docker
+    dockerfilePath: ./Dockerfile
+    plan: free
+    healthCheckPath: /api/data
+    envVars:
+      - key: FLASK_ENV
+        value: production
+      - key: PORT
+        value: 5000
